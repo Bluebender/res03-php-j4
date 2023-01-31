@@ -1,0 +1,13 @@
+id
+first_name
+last_name
+title
+email
+phone
+date_of_birth
+licence
+city
+github
+linkedin
+whire
+hobbies
